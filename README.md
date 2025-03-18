@@ -7,6 +7,7 @@ This repository contains the scripts to reproduce the 4000 language MMS ulab v2 
 git clone https://github.com/wanchichen/mms_unlab_v2.git
 cd mms_unlab_v2
 . ./download.sh
+cd ..
 . ./unzip.sh
 ```
 
